@@ -314,6 +314,6 @@ for i in range(amo):
 else: 
 	input(g+"\n\t\t\tYour Pogram Finished Enter For Continue")
 	os.system("clear")
-	os.system("python S-BOOMB.py")
+	os.system("python mukter-vau.py")
 
 
